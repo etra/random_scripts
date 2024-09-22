@@ -1,0 +1,4 @@
+geoip2
+fire	
+elasticsearch==7.10.1
+python-dotenv
